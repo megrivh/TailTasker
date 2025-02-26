@@ -1,5 +1,5 @@
 <div align="center">
-<img src="resources/assets/tailtaskerlogowithname.png" alt="Tail Tasker Logo">
+<img src="resources/assets/tailtaskerlogowithname.png" alt="Tail Tasker Logo" width="300">
 </div>
 
 ## Table of Contents
@@ -22,7 +22,7 @@ Tail Tasker is in the **active development** phase, and several key features hav
 
 -   **User Account Registration & Login:** Users can register for a personal account and securely login to manage their pet-related tasks and pet profiles.
 -   **Add Pets:** Users can add pets to their account with basic information like name, age, breed, and type. A photo can be uploaded for each pet, or a default image will be shown if the user chooses not to upload one.
--   **Task Management:** Users can create tasks related to each pet and set deadlines for specific activities (e.g.,vet appointments, feeding, walking)
+-   **Task Management:** Users can create tasks related to each pet and set deadlines for specific activities (e.g., vet appointments, feeding, walking)
 -   **Comprehensive Daily Task List:** Users can view a comprehensive list of tasks for each day, with the ability to toggle between previous and upcoming days to see past and future tasks for their pets.
 
 ### In Progress
