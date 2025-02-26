@@ -15,9 +15,9 @@
     </head>
     <body class="font-sans antialiased bg-gray-100">
             <div class="relative min-h-screen flex flex-col items-center justify-center selection:bg-[#ff9e20] selection:text-white">
-                    <header class="w-full bg-gray-200">
+                    <header class="w-full bg-gray-200 shadow-md">
                         <div class="items-center mx-auto max-w-7xl">
-                            <div class="flex py-2 lg:justify-center lg:col-start-2">
+                            <div class="flex py-3 lg:justify-center lg:col-start-2">
                                 <x-application-logo class="w-24 h-24 fill-current text-primary" />
                             </div>
                             @if (Route::has('login'))
@@ -49,7 +49,7 @@
                         </div>
                     </section>
                     <!-- Features Section -->
-                    <section class="px-6 py-10 bg-gray-200">
+                    <section class="px-6 py-10 bg-gray-200 shadow-lg">
                         <h2 class="py-5 text-4xl font-semibold text-center text-black">Features</h2>
                         <div class="grid max-w-screen-xl grid-cols-1 gap-12 mx-auto sm:grid-cols-3 md:grid-cols-3">
                             <div class="flex flex-col items-start p-6 bg-orange-100 rounded-lg shadow-lg">
